@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Josia Mwale (Magus)
 
-🎓 Mathematical Sciences student Malawi University of Science and Technology(MUST)
+🎓 Mathematical Sciences student at Malawi University of Science and Technology(MUST)
 📍 Focused on **Financial Mathematics**, code, and models that matter
 
 ---
