@@ -1,6 +1,6 @@
 # I’m Magus
 
-Mathematical Sciences student majoring in **Financial & Insurance mathematics** with a combination of data analysis, and programming**.  
+Mathematical Sciences student majoring in **Financial & Insurance mathematics** with a combination of data analysis, and programming.  
 I build things that sit at the intersection of **numbers, code, and markets**.
 
 ## Current Focus
